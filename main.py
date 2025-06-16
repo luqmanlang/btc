@@ -8,7 +8,6 @@ from src.brain.alpha_ai import alpha_analysis
 from src.data.market_data import get_comprehensive_market_data
 from src.utils.formatters import create_alert_embed, create_analysis_embed
 from src.analysis.scoring_engine import rank_opportunities
-from keep_alive import keep_alive
 from config import *
 
 # Bot setup
